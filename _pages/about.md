@@ -71,4 +71,4 @@ and Reasoning (RuleML+RR) 2022, Berlin, Germany
 # 👨‍🏫 Teaching
 
 - Python programming in the Bioinformatics for Computational Genomics master degree programme
-- C and Matlab programming in Mechanical Engineering bachelor degree program
+- C and Matlab programming in Mechanical Engineering bachelor degree programme
