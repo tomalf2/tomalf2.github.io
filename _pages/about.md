@@ -28,28 +28,28 @@ redirect_from:
 
 # 📜 Featured publications
 
-**[Data-driven recombination detection in viral genomes](https://doi.org/10.1101/2023.06.05.543733)** </br>
-*Alfonsi T., Bernasconi A., Chiara M., Ceri S.* </br>
-Under review at Nature Communications; [pre-print available](https://doi.org/10.1101/2023.06.05.543733)
+**[Data-driven recombination detection in viral genomes](https://doi.org/10.1038/s41467-024-47464-5)** 
+*Alfonsi T., Bernasconi A., Chiara M., Ceri S.* 
+Nature Communications, vol. 15, n. 3313, 2024 
 
-**[CoV2K model, a comprehensive representation of SARS-CoV-2 knowledge and data interplay](https://doi.org/10.1038/s41597-022-01348-9)** </br>
-*Alfonsi T., Al Khalaf R., Ceri S., Bernasconi A.* </br>
+**[CoV2K model, a comprehensive representation of SARS-CoV-2 knowledge and data interplay](https://doi.org/10.1038/s41597-022-01348-9)** 
+*Alfonsi T., Al Khalaf R., Ceri S., Bernasconi A.* 
 Scientific Data, vol. 9, n. 260, 2022, pp. 1-12
 
-**[EpiSurf: metadata-driven search server for analyzing amino acid changes within epitopes of SARS-CoV-2 and other viral species](https://doi.org/10.1093/database/baab059)** </br>
-*Bernasconi A., Cilibrasi L., Al Khalaf R., Alfonsi T., Ceri S., Pinoli P., Canakoglu A.* </br>
+**[EpiSurf: metadata-driven search server for analyzing amino acid changes within epitopes of SARS-CoV-2 and other viral species](https://doi.org/10.1093/database/baab059)** 
+*Bernasconi A., Cilibrasi L., Al Khalaf R., Alfonsi T., Ceri S., Pinoli P., Canakoglu A.* 
 Database, vol. 2021, 2021
 
-**[ViruSurf: an integrated database to investigate viral sequences](https://doi.org/10.1093/nar/gkaa846)** </br>
-*Canakoglu A., Pinoli P., Bernasconi A., Alfonsi T., Damianos P. M., Ceri S.* </br>
+**[ViruSurf: an integrated database to investigate viral sequences](https://doi.org/10.1093/nar/gkaa846)** 
+*Canakoglu A., Pinoli P., Bernasconi A., Alfonsi T., Damianos P. M., Ceri S.* 
 Nucleic Acids Research, vol. 29, n. D1, pp. D817-D824
 
-**[VirusViz: comparative analysis and effective visualization of viral nucleotide and amino acid variants](https://doi.org/10.1093/nar/gkaa846)** </br>
-*Bernasconi A., Gulino A., Alfonsi T., Canakoglu A., Pinoli P., Sandionigi A., Ceri S.</br>*
+**[VirusViz: comparative analysis and effective visualization of viral nucleotide and amino acid variants](https://doi.org/10.1093/nar/gkaa846)** 
+*Bernasconi A., Gulino A., Alfonsi T., Canakoglu A., Pinoli P., Sandionigi A., Ceri S.*
 Nucleic Acids Research, vol. 49, n. 15, pp. e90
 
-**[Genomic data integration and user-defined sample-set extraction for population variant analysis](https://doi.org/10.1186/s12859-022-04927-0)** </br>
-*Alfonsi T., Bernasconi A., Canakoglu A., Masseroli M.* </br>
+**[Genomic data integration and user-defined sample-set extraction for population variant analysis](https://doi.org/10.1186/s12859-022-04927-0)** 
+*Alfonsi T., Bernasconi A., Canakoglu A., Masseroli M.* 
 BMC Bioinformatics, vol. 23, n. 401, pp. 1-33
 
 [...more](https://scholar.google.com/citations?view_op=list_works&hl=it&hl=it&user=v5lhgMMAAAAJ)
