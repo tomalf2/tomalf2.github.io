@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-🎓 I'm a PhD candidate in Information Technology @ Politecnico di Milano
+🎓 I'm a PhD in Information Technology @ Politecnico di Milano
 
 🔬 Doing bioinformatic research is my way of trying to make the world a better place. 
 
@@ -16,7 +16,7 @@ redirect_from:
 
 👨‍💻 I develop software instruments and methods that biology experts can use to improve our understanding of current and future viral threats.
 
-# 🔍 3 years of research in brief
+# 🔍 4 years of research in brief
 
 **Data modeling & intgration pipelines:** I contributed in developing a vast, integrated viral sequence database, including data and metadata from diverse sources and viral species ([ViruSurf](../files/ViruSurf%20NAR.pdf)). Additionally, I contributed to crafting essential tools with wide-reaching significance within the scientific community ([VirusViz](../files/VirusViz%20NAR.pdf), [EpiSurf](../files/EpiSurf_DATABASE.pdf), [CoV2K](../files/CoV2K_model.pdf)). These tools facilitate the analysis of SARS-CoV- 2 virus evolution, enhancing our comprehension of its transmission mechanisms and aiding in the formulation of effective countermeasures (i.e., vaccines). 
 
@@ -24,7 +24,7 @@ redirect_from:
 
 **Population genomics:** I built an API to ease the selection genomic populations and assess genomic characteristcs in the 1000 Genomes Project, and The Cancer Genome Atlas (TCGA). Combining gene annotations, [this API](../files/varsum.pdf) provides summary information about any population defined with fine-grained filters on DNA variants and metadata. 
 
-**Viral recombination and reassortment** Furthermore, I contributed to develop a cutting-edge method that significantly heightens the detection rate and speed of recombination events, offering a vital asset in our readiness to combat future pandemics or epidemics ([RecombinHunt](../files/v2_RecombinHunt___NatureCommunications.pdf)). Currently, I'm studying a method to detect reassortment and recombination in Influenza virus and other segmented genomes.
+**Viral recombination and reassortment** Furthermore, I contributed to develop a cutting-edge method that significantly heightens the detection rate and speed of recombination events, offering a vital asset in our readiness to combat future pandemics or epidemics ([RecombinHunt](../files/FINAL_RecombinHunt.pdf)). Currently, I'm studying a method to detect reassortment and recombination in Influenza virus and other segmented genomes.
 
 # 📜 Featured publications
 
@@ -55,7 +55,7 @@ BMC Bioinformatics, vol. 23, n. 401, pp. 1-33
 [...more](https://scholar.google.com/citations?view_op=list_works&hl=it&hl=it&user=v5lhgMMAAAAJ)
 
 # 🙋‍♂️ Conferences 
-- 9th IEEE International Conference on Big Data Computing Service and Machine Learning Applications (IEEE BigDataService 2023), Athens, Greece; Member of Program Commitee
+- IEEE International Conference on Big Data Computing Service and Machine Learning Applications (IEEE BigDataService), 2023 & 2024; Member of Program Commitee
 - Doctoral Achievements, Colloquia Doctoralia 2022, Milan, Italy
 - Viral Genomics Conference 2022, Hinxton, England
 - Declarative AI: International Joint Conference on Rules
@@ -65,8 +65,9 @@ and Reasoning (RuleML+RR) 2022, Berlin, Germany
 
 # 📚 Education and Training
 
+- PhD in Information Technology @ Politecnico di Milano, Italy
+- Artificial Intelligence and Machine Learning course @ University of Oxford, UK
 - Master Degree in Computer Science and Engineering @ Politecnico di Milano, Italy
-- Artificial Intelligence and Machine Learning course @ University of Oxford
 
 # 👨‍🏫 Teaching
 

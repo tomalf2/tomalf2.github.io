@@ -11,7 +11,7 @@ locale                   : "en-UK"
 title                    : "Tommaso's Homepage"
 title_separator          : "-"
 name                     : &name "Tommaso Alfonsi"
-description              : &description "PhD student in bioinformatics and viral genomics"
+description              : &description "PhD researcher in bioinformatics and viral genomics"
 url                      : https://tomalf2.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tomalf2/tomalf2.github.io"
@@ -25,11 +25,11 @@ author:
   avatar           : "avatar.JPG"
   name             : "Tommaso Alfonsi"
   pronouns         : # example: "she/her"  
-  bio              : "PhD in bioinformatics and viral genomics"
+  bio              : "PhD researcher in bioinformatics and viral genomics"
   location         : "Living in Varese, Italy"
   employer         : "Working @ Politecnico di Milano"
   uri              : # URL
-  email            : "tommaso.alfonsi@polimi.it"
+  email            : "tommaso.alfonsi at polimi dot it"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
