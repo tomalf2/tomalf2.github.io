@@ -18,5 +18,5 @@ author_profile: true
 
 <p>
 <small>Used software programming languages: Python, SQL, Bash, Mongo Query Language, XPath + a bit of core web technologies (HTML, CSS, JS)</small><br>
-<small>Used software platforms: PostgreSQL, AWS EC2, MongoDB</small>
+<small>Used software platforms: PostgreSQL, AWS EC2, Docker, Conda, MongoDB</small>
 </p>
