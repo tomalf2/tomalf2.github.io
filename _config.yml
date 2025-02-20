@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-UK"
-title                    : "Tommaso's Homepage"
+title                    : "About me"
 title_separator          : "-"
 name                     : &name "Tommaso Alfonsi"
 description              : &description "PhD researcher in bioinformatics and viral genomics"
@@ -207,6 +207,12 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+  scientific_dissemination:
+    output: true
+    permalink: /:collection/:path/
+  software:
+    output: true
+    permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
@@ -248,6 +254,23 @@ defaults:
   - scope:
       path: ""
       type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _scientific_dissemination
+  - scope:
+      path: ""
+      type: scientific_dissemination
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  - scope:
+      path: ""
+      type: software
     values:
       layout: single
       author_profile: true
