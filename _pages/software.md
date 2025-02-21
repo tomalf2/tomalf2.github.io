@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: "🖥️ Software Developed for Research or Personal Projects"
+excerpt: "Info about software projects for research and more"
 permalink: /software/
 author_profile: true
 ---

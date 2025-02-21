@@ -8,6 +8,7 @@ td, th {
 ---
 permalink: /
 title: "👋 Hello there, I'm Tommaso"
+sitemap: false
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -15,39 +16,11 @@ redirect_from:
   - /about.html
 ---
 
-🎓 I'm a Postdoctoral Research Fellow in Information Technology @ Politecnico di Milano
-
-🧬🦠 Doing bioinformatic is my way of trying to make the world a better place. 
-
-📈 I'm interested in data analysis and machine learning problems.
-
-👨‍💻 I develop software instruments and methods that biology experts can use to improve our understanding of current and future viral threats.
-
-# 🔍 Research Areas
-
-### Anomaly Detection
-
-
-|<img src="images/about/recomb.png" width=300px>|**Divergent evolution** By integrating multidimensional anomaly detection algorithms with codon bias and dinucleotide composition, I developed a method to detect viral isolates featuring a high zoonotic risk, that could be used to enhance genomic surveillance and anticipate pandemics.|
-
-
-
 |Anomaly Detection|Data Analysis|Knowledge Management|Population Genomics|
 |-------------------|-------------------|-------------------|-------------------|
 |<img src="images/about/recomb.png" width=300px>|<img src="images/about/cluster.png" width=300px>|<img src="images/about/integration.png" width=250px>|<img src="images/about/population_gen.png" width=320px>|
 |**Divergent evolution** By integrating multidimensional anomaly detection algorithms with codon bias and dinucleotide composition, I developed a method to detect viral isolates featuring a high zoonotic risk, that could be used to enhance genomic surveillance and anticipate pandemics.|**Viral recombination** Using robust statistical methods, I developed a cutting-edge method that significantly heightens the detection rate and speed of recombination events, offering a vital asset in our readiness to combat future pandemics or epidemics. ([link](https://doi.org/10.1038/s41467-024-47464-5))<br><br>**Clustering of viruses** Using information compression and clustering algorithms on viral sequences it is possible to highlight key epidemiological events and enable detailed comparisons of genomic features across IAV serotypes. This approach provides a scalable framework to study viral evolution, adaptation, especially in viruses with limited genomic data available.|**Data modeling & intgration pipelines** Fast, stable and continuous integration of viral sequences to develop one of the largest integrated database of genomes in 2020 ([ViruSurf](https://doi.org/10.1093/nar/gkaa846)). I also contributed to crafting tools facilitate the analysis of SARS-CoV- 2 virus evolution ([VirusViz](https://doi.org/10.1093/nar/gkab478), [EpiSurf](https://doi.org/10.1093/database/baab059), [CoV2K](https://doi.org/10.1038/s41597-022-01348-9)).<br><br>**AI reasoning on knowledge graphs** I used a knowledge and reasoning representation language to bring artificial intelligence to a knowledge-base, answering interesting questions about SARS-CoV-2 variants and phenotypic effcts. ([link](../files/rule_ml.pdf))|**Population genomics** I built an API to ease the selection genomic populations and assess genomic characteristcs in the 1000 Genomes Project, and The Cancer Genome Atlas (TCGA). Combining gene annotations, this API provides summary information about any population defined with fine-grained filters on DNA variants and metadata. ([link](https://doi.org/10.1186/s12859-022-04927-0))|
 
-
-
-**Aanlysis of viral genomes** I analyze large amounts of genomic data for extracting impactful insights about how viruses evolve during pandemics. My research is directed toward the development of data-driven and machine learning methods supporting the detection of spillover events and development of early warning systems. Additionally, a method to detect reassortment and recombination in Influenza virus and other segmented genomes is under study. 
-
-**Viral recombination and reassortment** Furthermore, I contributed to develop a cutting-edge method that significantly heightens the detection rate and speed of recombination events, offering a vital asset in our readiness to combat future pandemics or epidemics. ([link](https://doi.org/10.1038/s41467-024-47464-5))
-
-**AI reasoning on knowledge graphs:** I used a knowledge and reasoning representation language to bring artificial intelligence to the CoV2K knowledge-base. Such analysis framework was used to answer several interesting questions about SARS-CoV-2 variants and phenotypic effcts. ([link](../files/rule_ml.pdf))
-
-**Data modeling & intgration pipelines:** I implemented the ETL pipeline responsible for transforming thousands of viral sequences required to develop one of the largest integrated database of genomes in 2020. This database, ([ViruSurf](https://doi.org/10.1093/nar/gkaa846)). I also contributed to crafting essential tools with wide-reaching significance within the scientific community: ([VirusViz](https://doi.org/10.1093/nar/gkab478), [EpiSurf](https://doi.org/10.1093/database/baab059), [CoV2K](https://doi.org/10.1038/s41597-022-01348-9)). These tools facilitate the analysis of SARS-CoV- 2 virus evolution, enhancing our comprehension of its transmission mechanisms and aiding in the formulation of effective countermeasures (i.e., vaccines). 
-
-**Population genomics:** I built an API to ease the selection genomic populations and assess genomic characteristcs in the 1000 Genomes Project, and The Cancer Genome Atlas (TCGA). Combining gene annotations, this API provides summary information about any population defined with fine-grained filters on DNA variants and metadata. ([link](https://doi.org/10.1186/s12859-022-04927-0))
 
 # 🖥️ Implemented tools
 

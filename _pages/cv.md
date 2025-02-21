@@ -1,8 +1,9 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
+excerpt: "Read and download my curriculum vitae"
 redirect_from:
   - /resume
 ---

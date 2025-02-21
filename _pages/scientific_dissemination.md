@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: "Scientific Dissemination"
+excerpt: "Publications on scientific journals, aknowledgments, collaborations and conferences"
 permalink: /scientific_dissemination/
 author_profile: true
 ---
@@ -27,7 +28,7 @@ Scientific Data, vol. 9, n. 260, 2022, pp. 1-12
 *Alfonsi T., Bernasconi A., Canakoglu A., Masseroli M.* 
 BMC Bioinformatics, vol. 23, n. 401, pp. 1-33
 
-[...11 more](https://scholar.google.com/citations?view_op=list_works&hl=it&hl=it&user=v5lhgMMAAAAJ)
+[See 11 more](https://scholar.google.com/citations?view_op=list_works&hl=it&hl=it&user=v5lhgMMAAAAJ){: .btn}
 
 ## 🙋‍♂️ Conferences 
 - IEEE International Conference on Big Data Computing Service and Machine Learning Applications (IEEE BigDataService), 2023 & 2024; Member of Program Commitee
@@ -39,7 +40,7 @@ and Reasoning (RuleML+RR) 2022, Berlin, Germany
 - 15th Research Challenges in Information Science (RCIS), Limassol, Cyprus
 
 <br>
-If interested, I invite you to check [my Google Scholar profile](https://scholar.google.com/citations?user=v5lhgMMAAAAJ&hl=it)!
+If interested, I invite you to check my [Google Scholar profile](https://scholar.google.com/citations?user=v5lhgMMAAAAJ&hl=it)!
 
 ## 🔍 Featured Collaborators
 
