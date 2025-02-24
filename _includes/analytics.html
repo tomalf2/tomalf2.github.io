@@ -14,6 +14,48 @@
 {% endif %}
 
 <!-- Google tag (gtag.js) -->
+<!-- <script>
+// Define dataLayer and the gtag function.
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+// IMPORTANT - DO NOT COPY/PASTE WITHOUT MODIFYING REGION LIST
+// Set default consent for specific regions according to your requirements
+gtag('consent', 'default', {
+  'ad_storage': 'denied',
+  'ad_user_data': 'denied',
+  'ad_personalization': 'denied',
+  'analytics_storage': 'denied',
+  'functionality_storage': 'denied',
+  'personalization_storage': 'denied',
+  'security_storage': 'denied',
+  'regions':[<list of ISO 3166-2 region codes>]
+});
+// Set default consent for all other regions according to your requirements
+gtag('consent', 'default', {
+  'ad_storage': 'denied',
+  'ad_user_data': 'denied',
+  'ad_personalization': 'denied',
+  'analytics_storage': 'denied',
+  'functionality_storage': 'denied',
+  'personalization_storage': 'denied',
+  'security_storage': 'denied',
+});  
+</script>   -->
+<script>
+  window.dataLayer = window.dataLayer ||[];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('consent','default',{
+    'ad_storage':'denied',
+    'analytics_storage':'denied',
+    'ad_user_data':'denied',
+    'ad_personalization':'denied',
+    'personalization_storage':'denied',
+    'functionality_storage':'granted',
+    'security_storage':'granted',
+    'wait_for_update': 500
+  });
+  gtag("set", "ads_data_redaction", true);
+</script>
 <script src="https://cmp.osano.com/OXkVFbb7q8/6a2f129d-3b0f-4956-90ae-4e0189af3a0e/osano.js"></script>
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-2BTDG5HBSL"></script>
 <script>
