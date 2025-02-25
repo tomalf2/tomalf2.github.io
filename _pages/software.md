@@ -6,6 +6,10 @@ permalink: /software/
 author_profile: true
 ---
 
+## Data science / General purpose libraries 
+
+|<img src="https://github.com/tomalf2/job-orchestra/blob/main/docs/pasta_dependency_graph.png?raw=true" alt="Dependency graph of the pasta recipe" width="300px">| job-orchestra - A pipeliine orchestration framework for reproducible and memory persistent data workflows in python. [Try it](https://pypi.org/project/job-orchestra/1.1.4/#description)!|<!-- Appearance of table is modified by _includes/scripts.html-->
+
 ## Bioinformatic tools 
 
 - FluWarningSys - web app and data warehouse showcasing potential spillover cases of Influenza A Virus <small>*(author of)*</small>
@@ -19,5 +23,5 @@ author_profile: true
 
 <p>
 <small>Used software programming languages: Python, SQL, Bash, Mongo Query Language, XPath + a bit of core web technologies (HTML, CSS, JS)</small><br>
-<small>Used software platforms: PostgreSQL, AWS EC2, Docker, Conda, MongoDB</small>
+<small>Used software platforms: PostgreSQL, AWS EC2, Docker, MongoDB, Conda, uv</small>
 </p>
