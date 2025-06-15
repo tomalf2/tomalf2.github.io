@@ -4,11 +4,8 @@ main:
   #   url: https://scholar.google.com/citations?user=v5lhgMMAAAAJ&hl=it
   #   # url: /publications/
 
-  - title: "Scientific Dissemination"
-    url: /scientific_dissemination/
-
-  - title: "Software"
-    url: /software/
+  - title: "Projects"
+    url: /projects/
 
   # - title: "Talks"
   #   url: /talks/    
@@ -19,6 +16,9 @@ main:
   - title: "Curriculum Vitae"
     url: "/files/CV alfonsi tommaso.pdf"
     # url: /cv/
+
+  - title: "Scientific Dissemination"
+    url: /scientific_dissemination/
     
   # - title: "Guide"
   #   url: /markdown/

@@ -11,7 +11,7 @@ locale                   : "en-UK"
 title                    : "About me"
 title_separator          : "-"
 name                     : &name "Tommaso Alfonsi"
-description              : &description "PhD researcher in bioinformatics and viral genomics"
+description              : &description "Data scientist, software engineer, bioinformatician"
 url                      : https://tomalf2.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tomalf2/tomalf2.github.io"
@@ -24,8 +24,9 @@ author:
   # Biographic information
   avatar           : "avatar.JPG"
   name             : "Tommaso Alfonsi"
-  pronouns         : # example: "she/her"  
-  bio              : "PhD researcher in bioinformatics and viral genomics"
+  pronouns         : # example: "she/her"
+  bio              : "Data scientist, software engineer, bioinformatician"
+  custom           : "Open to work"
   location         : "Living in Varese, Italy"
   employer         : "Working @ Politecnico di Milano"
   uri              : # URL
@@ -58,7 +59,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : tommaso-alfo
+  linkedin         : # URL
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -270,7 +271,7 @@ defaults:
       comments: true
   - scope:
       path: ""
-      type: software
+      type: projects
     values:
       layout: single
       author_profile: true

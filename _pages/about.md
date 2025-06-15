@@ -8,13 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-🎓 I'm a Postdoctoral Research Fellow in Information Technology @ Politecnico di Milano
-
-🧬🦠 Doing bioinformatic is my way of trying to make the world a better place. 
-
-📈 I'm interested in data analysis and machine learning problems.
+📈 I'm interested in data analysis, and machine learning problems.
 
 👨‍💻 I develop software instruments and methods that biology experts can use to improve our understanding of current and future viral threats.
+
+🧬🦠 Doing bioinformatic is my way of trying to make the world a better place. 
 
 # 🔍 Research areas in Information Technology
 
@@ -42,9 +40,10 @@ redirect_from:
 
 <br>
 
-# 📚 Education and Training
+# 🎓 Education and Training
 
-- PhD in Information Technology @ Politecnico di Milano, Italy
+- Postdoctoral Research Fellow
+- PhD cum laude in Information Technology @ Politecnico di Milano, Italy
 - Artificial Intelligence and Machine Learning course @ University of Oxford, UK
 - Master Degree in Computer Science and Engineering @ Politecnico di Milano, Italy
 
