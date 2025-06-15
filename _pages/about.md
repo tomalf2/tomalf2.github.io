@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-📈 I'm interested in data analysis, and machine learning problems.
+📈 I'm interested in data analysis and machine learning problems.
 
 👨‍💻 I develop software instruments and methods that biology experts can use to improve our understanding of current and future viral threats.
 
