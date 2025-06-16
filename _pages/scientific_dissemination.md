@@ -8,9 +8,13 @@ author_profile: true
 
 ## 📰 Featured publications
 
-**Multi-scale early spillover warnings for influenza A viruses**
+**[Multi-scale early warning system for influenza A spillovers](https://doi.org/10.1101/2025.05.24.655955)**
 *Alfonsi T., Bernasconi A., Chiara M., Ceri S.*
-Pre-print, 2025.
+Pre-print manuscript, BiorXiv, 2025.
+
+**[A codon usage-based approach for the stratification of Influenza A](https://dx.doi.org/10.21203/rs.3.rs-5737660/v1)**
+*Alfonsi T., Chiara M., Bernasconi A.*
+Pre-print manuscript, ResearchSquare, 2024.
 
 **[Data-driven recombination detection in viral genomes](https://doi.org/10.1038/s41467-024-47464-5)** 
 *Alfonsi T., Bernasconi A., Chiara M., Ceri S.* 
@@ -55,6 +59,6 @@ Baltimore
 - C and Matlab programming in the BSs in Mechanical Engineering
 
 
-## 🏅 Prizes
+## 🏅 Awards
 
 - 2024 Chorafas award for the extraordinary scientific achievements in computers and communications technology
