@@ -18,20 +18,20 @@ A Dockerized ETL pipeline for data cleaning/alignment and outlier detection + [w
 ## 2. FluDataStratification (2025)
 [Zenodo](https://doi.org/10.5281/zenodo.14561947)
    
-A data analysis pipeline finding clusters of Influenza genomes
+A data analysis pipeline for finding clusters of Influenza genomes
 
 <img src="images/h5n1-23-25-multi-segment-fluseason.png" alt="Example of stratification in H5N1" width="800px">
    
 ## 3. Job Orchestra (2025)
 [GitHub](https://github.com/tomalf2/job-orchestra)  [PyPI](https://pypi.org/project/job-orchestra/1.1.4/#description)
    
-A pipeliine orchestration framework for reproducible and memory persistent data workflows in python.
+A pipeline orchestration framework for reproducible and memory persistent data workflows in python.
 
 <img src="images/image-job-orchestra.png" alt="Instructions of the pasta recipe" width="800px">
 
 ## 4. CodonLLM (2025) 
 
-A large language model (LLM) built from scratch capable of generating sequences of DNA/RNA similar to the input sequences. Suitable for data-augmentation purposes. 
+A large language model (LLM) built from scratch for data-augmentation purposes. It is capable of generating plausible sequences of DNA/RNA similar to a pre-existing collection of genomic sequences.
 
 ## 5. RecombinHunt (2024)
 [GitHub](https://github.com/tomalf2/recombinhunt-cov)
