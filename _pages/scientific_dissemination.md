@@ -12,9 +12,9 @@ author_profile: true
 *Alfonsi T., Bernasconi A., Chiara M., Ceri S.*
 Pre-print manuscript, BiorXiv, 2025.
 
-**[A codon usage-based approach for the stratification of Influenza A](https://dx.doi.org/10.21203/rs.3.rs-5737660/v1)**
+**[A codon usage-based approach for the stratification of Influenza A across recent spillovers](https://doi.org/10.1016/j.csbj.2025.06.030)**
 *Alfonsi T., Chiara M., Bernasconi A.*
-Pre-print manuscript, ResearchSquare, 2024.
+Computational and Structural Biotechnology Journal, vol. 27, pp. 2757-2771, 2025.
 
 **[Data-driven recombination detection in viral genomes](https://doi.org/10.1038/s41467-024-47464-5)** 
 *Alfonsi T., Bernasconi A., Chiara M., Ceri S.* 
@@ -26,11 +26,11 @@ Pre-print manuscript, BioRxiv, 2024
 
 **[CoV2K model, a comprehensive representation of SARS-CoV-2 knowledge and data interplay](https://doi.org/10.1038/s41597-022-01348-9)** 
 *Alfonsi T., Al Khalaf R., Ceri S., Bernasconi A.* 
-Scientific Data, vol. 9, n. 260, 2022, pp. 1-12
+Scientific Data, vol. 9, n. 260, pp. 1-12, 2022
 
 **[Genomic data integration and user-defined sample-set extraction for population variant analysis](https://doi.org/10.1186/s12859-022-04927-0)** 
 *Alfonsi T., Bernasconi A., Canakoglu A., Masseroli M.* 
-BMC Bioinformatics, vol. 23, n. 401, pp. 1-33
+BMC Bioinformatics, vol. 23, n. 401, pp. 1-33, 2022
 
 [See 11 more](https://scholar.google.com/citations?view_op=list_works&hl=it&hl=it&user=v5lhgMMAAAAJ){: .btn}
 
