@@ -1,18 +1,29 @@
 ---
 permalink: /
 title: "👋 Hello there, I'm Tommaso"
-excerpt: "Read about my research activity and interests"
+excerpt: "Read about my work, research activity and interests"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-📈 I'm interested in data analysis and machine learning problems.
+📈 I'm interested in data analysis, AI and machine learning problems.
 
-👨‍💻 I develop software instruments and methods that biology experts can use to improve our understanding of current and future viral threats.
+👨‍💻 I develop software instruments and methods that industry and biology experts can use to improve our understanding of current and future viral threats.
 
 🧬🦠 Doing bioinformatic is my way of trying to make the world a better place. 
+
+# Work projects
+
+### AI assistants
+
+|<img src="images/about/ai-assistants.png" width=500px>|Application field: **Enterprise AI & Knowledge Systems**<br><br>I design and build end-to-end RAG systems that turn fragmented corporate knowledge into reliable, searchable resources for LLMs. I combine document processing, multimodal retrieval and rigorous evaluation to build AI systems that deliver relevant, actionable answers from complex enterprise data.|<!-- Appearance of table is modified by _includes/scripts.html-->
+
+### Real-time Geospatial Intelligence
+
+|<img src="images/about/sar-detection.png" width=600px>|Application field: **Geospatial Intelligence**<br><br>I developed a scalable web application to showcase a real-time SAR pipeline for ML-based vessel detection. By visualizing imagery and detections as they are generated, the application makes the algorithm's real-time performance tangible while providing an accessible interface for exploring and extending the detection capability.|<!-- Appearance of table is modified by _includes/scripts.html-->
+
 
 # 🔍 Research areas in Information Technology
 
